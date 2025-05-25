@@ -11,7 +11,7 @@ public class StudentGrade {
 	public static void main(String[] args)throws Exception {
 		try {
 		
-		String sq = "jdbc:mysql://localhost:3306/gradesystem";
+		String sq = "jdbc:mysql://localhost:3300/gradesystem";
 		String user = "root";
 		String password = "password";
 		
